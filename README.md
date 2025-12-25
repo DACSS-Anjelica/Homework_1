@@ -5,6 +5,9 @@ This repository contains the code and outputs for Homework 1, which analyzes spa
 The full analysis and results are available as a rendered HTML report:  
 https://dacss-anjelica.github.io/Homework_1/
 
+Google collab notebook:
+https://colab.research.google.com/drive/1oKNcyKUy84lVw7XG1PRkD5TZsknOWVxU?usp=sharing
+
 # Outputs
 - LISA cluster maps using Queen contiguity  
 - LISA cluster maps using K-nearest neighbors (k = 8)  
